@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WordCraft/static/css/main.10f389a8.css",
-    "main.js": "/WordCraft/static/js/main.068b2aa2.js",
-    "static/js/787.ee11222e.chunk.js": "/WordCraft/static/js/787.ee11222e.chunk.js",
+    "main.js": "/WordCraft/static/js/main.a9d4be68.js",
+    "static/js/787.aebdf3aa.chunk.js": "/WordCraft/static/js/787.aebdf3aa.chunk.js",
     "index.html": "/WordCraft/index.html",
     "main.10f389a8.css.map": "/WordCraft/static/css/main.10f389a8.css.map",
-    "main.068b2aa2.js.map": "/WordCraft/static/js/main.068b2aa2.js.map",
-    "787.ee11222e.chunk.js.map": "/WordCraft/static/js/787.ee11222e.chunk.js.map"
+    "main.a9d4be68.js.map": "/WordCraft/static/js/main.a9d4be68.js.map",
+    "787.aebdf3aa.chunk.js.map": "/WordCraft/static/js/787.aebdf3aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10f389a8.css",
-    "static/js/main.068b2aa2.js"
+    "static/js/main.a9d4be68.js"
   ]
 }
