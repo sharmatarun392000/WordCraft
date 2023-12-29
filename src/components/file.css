@@ -1,0 +1,22 @@
+button
+{
+    display: block;
+    width: 200px;
+    height: 40px;
+    margin-top:10px;
+}
+
+h1
+{
+    display: block;
+}
+.containerit
+{
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 80% 20%;   
+}
+.buttons
+{
+    padding: 20px;
+}
