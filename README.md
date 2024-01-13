@@ -1,9 +1,15 @@
 ScreenShots:-
+
 Dark Mode
 ![image](https://github.com/sharmatarun392000/WordCraft/assets/83560354/1ae956b3-c7c7-4468-b8b2-54fc98fb3eae)
 Light Mode
 ![image](https://github.com/sharmatarun392000/WordCraft/assets/83560354/ae1f7779-7fc8-41e3-bbf0-ff0ad60ada32)
 
+This web app can be used to :-
+1. Count the no. of words in the text.
+2. Count the no. of characters in the text.
+3. Approximate time required to read the text.
+4. Copy the text to Clipboard
 
 # Getting Started with Create React App
 
