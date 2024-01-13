@@ -1,3 +1,10 @@
+ScreenShots:-
+Dark Mode
+![image](https://github.com/sharmatarun392000/WordCraft/assets/83560354/1ae956b3-c7c7-4468-b8b2-54fc98fb3eae)
+Light Mode
+![image](https://github.com/sharmatarun392000/WordCraft/assets/83560354/ae1f7779-7fc8-41e3-bbf0-ff0ad60ada32)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
